@@ -1,6 +1,6 @@
-# myapp
+# Página da Nicoli
 
-A new Flutter project.
+Projeto da unidade 2, do módulo 11 do Curso Talento Tech
 
 ## Getting Started
 
